@@ -1,0 +1,6 @@
+Initialize Git: You must run  so Git knows to track changes in that folder
+ Git: You must run  so Git knows to track changes in that folderEdit but don’t stage: The changes stay in your working directory and won’t be saved in the next commit.
+•       Staging vs committing: Staging () selects changes; committing () saves them permanently in history.
+•       Clear commit messages: They explain what changed and why, making teamwork and debugging easier.
+•       Git’s real project role: It solves version control—tracking changes, enabling collaboration, and preventing code conflicts
+

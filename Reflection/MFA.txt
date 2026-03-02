@@ -1,0 +1,13 @@
+commands i used:
+mv to move a folder to another destination
+mkdir to create a new folder
+cp-r to copy files from 1 folder to another
+rm to remove an empty folder
+rm -r to remove a folder with files
+
+All the commands i used were correct because i used them as how they are supposed to be used
+
+Moving is different from copy because copying creates a dublicate file in the oother destination while moving transfers
+
+when you try to rename a folder that doesnot exist it shows an error saying that the file or dicrectory does not exist
+
